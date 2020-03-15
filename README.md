@@ -5,6 +5,7 @@ Install / Config
 
 Copy all the files to the same folder. python3 app.py -h to see switches. By default the app will look for stck.mkv unless the user modifys (-i)
 
+see gif for preview
 
 usage: Run inference on an input video [-h] -m M [-i I] [-d D] [-t T] [-c C]
 
