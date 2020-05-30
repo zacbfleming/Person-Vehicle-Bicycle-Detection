@@ -1,4 +1,7 @@
 # Person-Vehicle-Bicycle-Detection
+
+REQUIRED: Openvino 2020.1
+
 Person-vehicle-bike detection model is based on SSD detection architecture, RMNet backbone, and learnable image downscale block. The model works in a variety of scenes and weather/lighting conditions. Vehicles bounding boxes are green, pedestrians are blue and bicycles are red. This is user configurable.
 
 Install / Config
